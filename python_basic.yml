@@ -1,0 +1,16 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.9
+  - pip
+  - nodejs
+  - jupyterlab
+  - jupyterlab_execute_time
+  - jupyterlab-python-file
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - pip:
+    - jupyterlab-git>=0.30.0b2

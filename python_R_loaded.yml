@@ -1,6 +1,6 @@
 channels:
   - conda-forge
-  - biconda
+  - bioconda
   - r
   - defaults
 dependencies:

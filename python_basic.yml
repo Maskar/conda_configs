@@ -5,7 +5,7 @@ dependencies:
   - python>=3.9
   - pip
   - nodejs
-  - jupyterlab
+  - jupyterlab>=3.0
   - jupyterlab_execute_time
   - jupyterlab-python-file
   - pandas
@@ -14,3 +14,4 @@ dependencies:
   - scikit-learn
   - pip:
     - jupyterlab-git>=0.30.0b2
+    - jupyterlab-spellchecker

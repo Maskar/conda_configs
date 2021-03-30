@@ -6,6 +6,7 @@ dependencies:
   - pip
   - nodejs
   - jupyterlab>=3.0
+  - jupyter_server
   - jupyterlab_execute_time
   - jupyterlab-python-file
   - pandas

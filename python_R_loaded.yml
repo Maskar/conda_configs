@@ -52,7 +52,6 @@ dependencies:
   - geopandas
   - geopy
   - folium
-#  - beakerx
 # R modules
   - rpy2
   - r-base>=4.0

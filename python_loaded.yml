@@ -52,7 +52,6 @@ dependencies:
   - geopandas
   - geopy
   - folium
-#  - beakerx
   - pip:
     - jupyterlab-git>=0.30.0b2
     - sodapy>=2.1.0

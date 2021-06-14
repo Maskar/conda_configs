@@ -8,6 +8,7 @@ jupyterlab-geojson
 jupyterlab-python-file
 jupyterlab-git
 jupyterlab-spellchecker
+jupyterlab-drawio
 pandas
 matplotlib
 seaborn

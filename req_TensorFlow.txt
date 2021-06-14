@@ -6,6 +6,7 @@
     jupyterlab-python-file
     jupyterlab-git
     jupyterlab-spellchecker
+    jupyterlab-drawio
     ipython-sql
     ipympl
     sidecar
@@ -50,6 +51,8 @@
     opencv
 # DeepLearning
     tensorflow>=2
-    keras
-    theano
+    tensorflow-macos
+    tensorflow-metal
+    #keras
+    #theano
     #opencv

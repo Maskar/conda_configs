@@ -1,0 +1,24 @@
+# R modules
+    rpy2
+    r-base>=4.0
+    r-essentials
+    r-reticulate
+    r-psych
+    r-factoextra
+    r-ggally
+    r-vcd
+    r-igraph
+    r-ggthemes
+    r-geofacet
+    r-plotly
+    r-arrow
+    r-rccmisc
+    r-osmdata
+    r-ggmap
+    r-lubridate
+    r-nycflights13
+    r-kernlab
+    r-kknn
+    r-janitor
+    r-skimr
+    r-dataexplorer

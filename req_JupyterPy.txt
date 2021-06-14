@@ -10,6 +10,7 @@
     jupyterlab-python-file
     jupyterlab-git
     jupyterlab-spellchecker
+    jupyterlab-drawio
     ipython-sql
     ipympl
     sidecar

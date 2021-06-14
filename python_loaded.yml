@@ -8,12 +8,14 @@ dependencies:
   - python>=3.9
   - pip
   - nodejs
-  - requests
 # JupyterLab  
   - jupyterlab>=3.0
   - jupyterlab_execute_time
   - jupyterlab-geojson
   - jupyterlab-python-file
+  - jupyterlab-git
+  - jupyterlab-spellchecker
+  - jupyterlab-drawio
   - ipython-sql
   - ipympl
   - sidecar
@@ -24,6 +26,7 @@ dependencies:
   - matplotlib
   - seaborn
   - scikit-learn
+  - scikit-image
   - imbalanced-learn
 # Visualization
   - plotly
@@ -31,7 +34,9 @@ dependencies:
   - plotnine
   - bokeh
   - colorama
+  - ggplot
 # Other
+  - requests
   - bs4
   - nltk
   - pyarrow
@@ -52,7 +57,6 @@ dependencies:
   - geopandas
   - geopy
   - folium
-  - pip:
-    - jupyterlab-git>=0.30.0b2
-    - sodapy>=2.1.0
-    - jupyterlab-spellchecker
+  - opencv
+  #- pip:
+  #  - sodapy>=2.1.0

@@ -1,5 +1,5 @@
 # Core:
-    python
+    #python
     pip
     nodejs
 # JupyterLab  
@@ -39,23 +39,24 @@
     modin
     flask
     dtreeviz
-    xeus-python
-    xeus-sql
-    psycopg2
-    soci-sqlite
-    soci-postgresql
-    soci-mysql
-    klib
+    #xeus-python
+    #xeus-sql
+    #psycopg2
+    #soci-sqlite
+    #soci-postgresql
+    #soci-mysql
     dataprep
+    klib
     #pandas-profiling
     #sweetviz
     prince
     geopandas
     geopy
     folium
-    opencv
+    opencv-python
 # LSPs
     jupyterlab-lsp
-    jupyter-lsp-python
+    python-lsp-server[all]
     json-lsp
-    jupyter-lsp-r
+    #jupyter-lsp-python
+    #jupyter-lsp-r

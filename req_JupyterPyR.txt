@@ -16,7 +16,7 @@
     sidecar
     qtconsole
     pyppeteer
-# DS Modules
+# ML Modules
     pandas
     matplotlib
     seaborn

@@ -33,27 +33,6 @@
 # Other
     requests
     bs4
-    nltk
-    pyarrow
-    dask
-    modin
-    flask
-    dtreeviz
-    xeus-python
-    xeus-sql
-    psycopg2
-    soci-sqlite
-    soci-postgresql
-    soci-mysql
-    klib
-    dataprep
-    #pandas-profiling
-    #sweetviz
-    prince
-    geopandas
-    geopy
-    folium
-    opencv
 # LSPs
     jupyterlab-lsp
     jupyter-lsp-python

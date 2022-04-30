@@ -1,27 +1,30 @@
 # Core:
-    python
+    python>=3.10
     pip
     nodejs
 # JupyterLab  
-    jupyterlab
-    jupyter_server
+    jupyterlab>=3.0
+    #jupyter_server # Not needed
     jupyterlab_execute_time
     jupyterlab-geojson
     jupyterlab-python-file
     jupyterlab-git
     jupyterlab-spellchecker
     jupyterlab-drawio
+    jupyter-resource-usage
     ipython-sql
     ipympl
     sidecar
-    qtconsole
-    pyppeteer
+    jupyternotify  # %load_ext jupyternotify; %%notify;
+    watermark # %load_ext watermark; %watermark --iversion;
+    #qtconsole  # Why do i need this?
+    #pyppeteer  # Conflicts with nbconvert
 # ML Modules
     pandas
     matplotlib
     seaborn
     scikit-learn
-    scikit-image
+    #scikit-image  # Conflicts with python 3.10
     imbalanced-learn
 # Visualization
     plotly
@@ -35,7 +38,7 @@
     path
     bs4
 # LSPs
-    jupyterlab-lsp
-    jupyter-lsp-python
-    json-lsp
-    jupyter-lsp-r
+    #jupyterlab-lsp
+    #jupyter-lsp-python
+    #json-lsp
+    #jupyter-lsp-r

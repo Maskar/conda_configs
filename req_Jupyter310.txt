@@ -1,0 +1,17 @@
+python>=3.10
+pip
+nodejs
+jupyterlab>=3.0
+jupyter_server
+jupyterlab_execute_time
+jupyterlab-geojson
+jupyterlab-python-file
+jupyterlab-git
+jupyterlab-spellchecker
+jupyterlab-drawio
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn

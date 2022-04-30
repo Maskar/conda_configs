@@ -1,9 +1,9 @@
 # Core:
-    python>=3.9
+    python>=3
     pip
     nodejs
 # JupyterLab  
-    jupyterlab>=3.0
+    jupyterlab>=3
     jupyter_server
     jupyterlab_execute_time
     jupyterlab-geojson
@@ -48,11 +48,12 @@
     klib
     pandas-profiling
     sweetviz
-    prince
+    #prince
     geopandas
     geopy
     folium
     opencv
+    mysqlclient
 # R modules
     rpy2
     r-base>=4.0
@@ -77,6 +78,13 @@
     r-janitor
     r-skimr
     r-dataexplorer
+    r-zoo
+    r-fBasics
+    r-ggplot2
+    r-ggfortify
+    r-fpp2
+    r-kableextra
+    #r-equatiomatic
 # LSPs
     jupyterlab-lsp
     jupyter-lsp-python

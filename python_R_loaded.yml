@@ -82,5 +82,12 @@ dependencies:
   - r-janitor
   - r-skimr
   - r-dataexplorer
+  - r-zoo
+  - r-fBasics
+  - r-ggplot2
+  - r-ggfortify
+  - r-fpp2
+  - r-kableextra
+  #- r-equatiomatic
   #- pip:
   #  - sodapy>=2.1.0

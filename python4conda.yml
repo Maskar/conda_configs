@@ -1,0 +1,66 @@
+dependencies:
+# Core:
+  - python
+  - pip
+  - nodejs
+# JupyterLab
+  - jupyterlab
+  - jupyterlab_execute_time
+  - jupyterlab-geojson
+  - jupyterlab-python-file
+  - jupyterlab-git
+  - jupyterlab-spellchecker
+  - jupyterlab-drawio
+  - jupyterlab-notifications
+  - ipympl
+  - sidecar
+  - qtconsole
+  - pyppeteer
+  - autopep8
+# DS Modules
+  - pandas
+  - scikit-learn
+#  - scikit-image
+  - imbalanced-learn
+# Visualization
+  - matplotlib
+  - seaborn
+  - plotly
+#  - ggplot
+#  - mapbox
+#  - plotnine
+#  - bokeh
+#  - colorama
+# SQL
+  - ipython-sql
+  - mysql
+  - mysqlclient
+  - pymssql
+  - cx_Oracle
+  - pg8000
+  - xeus-python
+  - xeus-sql
+  - soci-sqlite
+  - soci-postgresql
+  - soci-mysql
+
+# Other
+  - requests
+  - bs4
+  - nltk
+  - pyarrow
+  - dask
+  - modin
+  - flask
+  - dtreeviz
+  - psycopg2
+  - klib
+  - pandas-profiling
+  - sweetviz
+#  - prince
+#  - geopandas
+#  - geopy
+  - folium
+#  - opencv
+#  - pip:
+#    - sodapy>=2.1.0
